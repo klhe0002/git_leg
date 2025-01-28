@@ -1,0 +1,27 @@
+/*************** Reset *********************/
+* {
+  margin: 0rem;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+  align-self: stretch;
+  object-fit: cover;
+  padding-bottom: 7vw;
+}
+
+main {
+  background-color: blanchedalmond;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
